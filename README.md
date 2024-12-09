@@ -4,24 +4,16 @@ The Airbnb clone listing page project aims to scaffold and lay the foundational 
 
 ## Stracture
 
-alx-listing-app
-        |
-        |
-        |--components/   
-        |
-        |---interfaces/
-        |
-        |---constants/
-        |
-        |---public/assets
-
 components/
+
 This file will define a reusable Button component, which will be used for actions like “Book Now,” “Details,” etc
 
 interfaces/
+
 Defines all TypeScript interfaces related to the project
 
 constants/
+
 Set up constants to store any reusable data or strings such as API URLs, configuration settings, or UI text
 
 public/assets
